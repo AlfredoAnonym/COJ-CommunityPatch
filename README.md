@@ -1,5 +1,4 @@
 # COJ-CommunityPatch
-![alt text](image.png)
 
 COJ Community Patch - aiming to fix some bugs, bring back multiplayer. Installer will also check for updates and display changelogs.
 
