@@ -13,4 +13,6 @@ It will contain:
 -Movies Fix
 -Debugscript that skips intro movies, etc.:
 
+Movies Fix, some maps will be downloaded through Google Drive.
+
 For now, this is the list. Whenever I'll have an other idea, I'll update / post it here
