@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-05-11",
+  "changelog": [
+    "Fixed duel hands not moving",
+    "Fixed low sensitivity issues",
+    "Restored LAN multiplayer visibility",
+    "Added updated singleplayer custom maps",
+    "Added Old West DLC map pack",
+    "Added dgVoodoo compatibility"
+  ]
+}
